@@ -1,0 +1,32 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: LizardoFSA
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to Branch
+        uses: crazy-max/github-action-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: .
+          fqdn:
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
