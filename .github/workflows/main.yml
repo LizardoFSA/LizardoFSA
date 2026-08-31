@@ -2,8 +2,9 @@ name: Generate Snake
 
 on:
   schedule:
+    # Se ejecuta automáticamente cada 24 horas a la medianoche
     - cron: "0 0 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # Permite la ejecución manual
 
 jobs:
   build:
@@ -15,10 +16,12 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: LizardoFSA
+          github_user_name: LizardoFSA # Tu nombre de usuario
           outputs: |
+            # Versión para tema claro (opcional, si quieres usar la paleta por defecto)
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # Versión para tema oscuro con paleta púrpura personalizada (como la imagen)
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#bf40bf&color_dots=#f2e6ff,#e6ccff,#cc99ff,#b366ff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

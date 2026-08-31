@@ -38,9 +38,11 @@
 ### 📊 Actividad en Código
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LizardoFSA&show_icons=true&locale=es&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/LizardoFSA/LizardoFSA/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LizardoFSA/LizardoFSA/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LizardoFSA/LizardoFSA/output/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LizardoFSA/LizardoFSA/output/dist/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
