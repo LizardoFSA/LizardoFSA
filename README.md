@@ -34,9 +34,9 @@
 ### 📊 Actividad en Código (Código Animado)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&locale=es&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LizardoFSA&show_icons=true&locale=es&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/TU_USUARIO_AQUI/TU_USUARIO_AQUI/main/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/LizardoFSA/LizardoFSA/main/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </div>
 
 ---
