@@ -1,0 +1,116 @@
+<svg viewBox="0 0 500 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Lluvia de piezas de Tetris">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#05070a"/>
+      <stop offset="100%" stop-color="#12161f"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="500" height="320" rx="10" fill="url(#bg)"/>
+  <clipPath id="clip"><rect x="0" y="0" width="500" height="320" rx="10"/></clipPath>
+
+  <g clip-path="url(#clip)" stroke="#00000066" stroke-width="1">
+
+    <!-- col0: I cian -->
+    <g fill="#00e5ff"><g>
+      <rect x="14" y="0" width="22" height="22" rx="3"/><rect x="14" y="22" width="22" height="22" rx="3"/><rect x="14" y="44" width="22" height="22" rx="3"/><rect x="14" y="66" width="22" height="22" rx="3"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-100; 0,330" dur="3.0s" begin="0s" repeatCount="indefinite"/>
+    </g></g>
+
+    <!-- col1: O amarillo -->
+    <g fill="#ffee58"><g>
+      <rect x="40" y="0" width="22" height="22" rx="3"/><rect x="62" y="0" width="22" height="22" rx="3"/><rect x="40" y="22" width="22" height="22" rx="3"/><rect x="62" y="22" width="22" height="22" rx="3"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-100; 0,330" dur="3.4s" begin="0.28s" repeatCount="indefinite"/>
+    </g></g>
+
+    <!-- col2: T purpura -->
+    <g fill="#ab47bc"><g>
+      <rect x="66" y="0" width="22" height="22" rx="3"/><rect x="88" y="0" width="22" height="22" rx="3"/><rect x="110" y="0" width="22" height="22" rx="3"/><rect x="88" y="22" width="22" height="22" rx="3"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-100; 0,330" dur="3.8s" begin="0.56s" repeatCount="indefinite"/>
+    </g></g>
+
+    <!-- col3: S verde -->
+    <g fill="#00e676"><g>
+      <rect x="114" y="0" width="22" height="22" rx="3"/><rect x="136" y="0" width="22" height="22" rx="3"/><rect x="92" y="22" width="22" height="22" rx="3"/><rect x="114" y="22" width="22" height="22" rx="3"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-100; 0,330" dur="4.2s" begin="0.84s" repeatCount="indefinite"/>
+    </g></g>
+
+    <!-- col4: Z rojo -->
+    <g fill="#ff5252"><g>
+      <rect x="118" y="0" width="22" height="22" rx="3"/><rect x="140" y="0" width="22" height="22" rx="3"/><rect x="140" y="22" width="22" height="22" rx="3"/><rect x="162" y="22" width="22" height="22" rx="3"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-100; 0,330" dur="4.6s" begin="1.12s" repeatCount="indefinite"/>
+    </g></g>
+
+    <!-- col5: L naranja -->
+    <g fill="#ffab40"><g>
+      <rect x="144" y="0" width="22" height="22" rx="3"/><rect x="144" y="22" width="22" height="22" rx="3"/><rect x="144" y="44" width="22" height="22" rx="3"/><rect x="166" y="44" width="22" height="22" rx="3"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-100; 0,330" dur="3.0s" begin="1.4s" repeatCount="indefinite"/>
+    </g></g>
+
+    <!-- col6: J azul -->
+    <g fill="#2979ff"><g>
+      <rect x="192" y="0" width="22" height="22" rx="3"/><rect x="192" y="22" width="22" height="22" rx="3"/><rect x="192" y="44" width="22" height="22" rx="3"/><rect x="170" y="44" width="22" height="22" rx="3"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-100; 0,330" dur="3.4s" begin="1.68s" repeatCount="indefinite"/>
+    </g></g>
+
+    <!-- col7: I cian -->
+    <g fill="#00e5ff"><g>
+      <rect x="196" y="0" width="22" height="22" rx="3"/><rect x="196" y="22" width="22" height="22" rx="3"/><rect x="196" y="44" width="22" height="22" rx="3"/><rect x="196" y="66" width="22" height="22" rx="3"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-100; 0,330" dur="3.8s" begin="1.96s" repeatCount="indefinite"/>
+    </g></g>
+
+    <!-- col8: O amarillo -->
+    <g fill="#ffee58"><g>
+      <rect x="222" y="0" width="22" height="22" rx="3"/><rect x="244" y="0" width="22" height="22" rx="3"/><rect x="222" y="22" width="22" height="22" rx="3"/><rect x="244" y="22" width="22" height="22" rx="3"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-100; 0,330" dur="4.2s" begin="2.24s" repeatCount="indefinite"/>
+    </g></g>
+
+    <!-- col9: T purpura -->
+    <g fill="#ab47bc"><g>
+      <rect x="248" y="0" width="22" height="22" rx="3"/><rect x="270" y="0" width="22" height="22" rx="3"/><rect x="292" y="0" width="22" height="22" rx="3"/><rect x="270" y="22" width="22" height="22" rx="3"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-100; 0,330" dur="4.6s" begin="2.52s" repeatCount="indefinite"/>
+    </g></g>
+
+    <!-- col10: S verde -->
+    <g fill="#00e676"><g>
+      <rect x="296" y="0" width="22" height="22" rx="3"/><rect x="318" y="0" width="22" height="22" rx="3"/><rect x="274" y="22" width="22" height="22" rx="3"/><rect x="296" y="22" width="22" height="22" rx="3"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-100; 0,330" dur="3.0s" begin="2.8s" repeatCount="indefinite"/>
+    </g></g>
+
+    <!-- col11: Z rojo -->
+    <g fill="#ff5252"><g>
+      <rect x="300" y="0" width="22" height="22" rx="3"/><rect x="322" y="0" width="22" height="22" rx="3"/><rect x="322" y="22" width="22" height="22" rx="3"/><rect x="344" y="22" width="22" height="22" rx="3"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-100; 0,330" dur="3.4s" begin="3.08s" repeatCount="indefinite"/>
+    </g></g>
+
+    <!-- col12: L naranja -->
+    <g fill="#ffab40"><g>
+      <rect x="326" y="0" width="22" height="22" rx="3"/><rect x="326" y="22" width="22" height="22" rx="3"/><rect x="326" y="44" width="22" height="22" rx="3"/><rect x="348" y="44" width="22" height="22" rx="3"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-100; 0,330" dur="3.8s" begin="3.36s" repeatCount="indefinite"/>
+    </g></g>
+
+    <!-- col13: J azul -->
+    <g fill="#2979ff"><g>
+      <rect x="374" y="0" width="22" height="22" rx="3"/><rect x="374" y="22" width="22" height="22" rx="3"/><rect x="374" y="44" width="22" height="22" rx="3"/><rect x="352" y="44" width="22" height="22" rx="3"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-100; 0,330" dur="4.2s" begin="3.64s" repeatCount="indefinite"/>
+    </g></g>
+
+    <!-- col14: I cian -->
+    <g fill="#00e5ff"><g>
+      <rect x="378" y="0" width="22" height="22" rx="3"/><rect x="378" y="22" width="22" height="22" rx="3"/><rect x="378" y="44" width="22" height="22" rx="3"/><rect x="378" y="66" width="22" height="22" rx="3"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-100; 0,330" dur="4.6s" begin="3.92s" repeatCount="indefinite"/>
+    </g></g>
+
+    <!-- col15: O amarillo -->
+    <g fill="#ffee58"><g>
+      <rect x="404" y="0" width="22" height="22" rx="3"/><rect x="426" y="0" width="22" height="22" rx="3"/><rect x="404" y="22" width="22" height="22" rx="3"/><rect x="426" y="22" width="22" height="22" rx="3"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-100; 0,330" dur="3.0s" begin="4.2s" repeatCount="indefinite"/>
+    </g></g>
+
+    <!-- col16: T purpura -->
+    <g fill="#ab47bc"><g>
+      <rect x="430" y="0" width="22" height="22" rx="3"/><rect x="452" y="0" width="22" height="22" rx="3"/><rect x="474" y="0" width="22" height="22" rx="3"/><rect x="452" y="22" width="22" height="22" rx="3"/>
+      <animateTransform attributeName="transform" type="translate" values="0,-100; 0,330" dur="3.4s" begin="4.48s" repeatCount="indefinite"/>
+    </g></g>
+
+  </g>
+</svg>
