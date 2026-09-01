@@ -1,6 +1,6 @@
 # Hola, soy Lizardo.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=25C3EB&center=false&vCenter=false&width=435&lines=Estudiante+de+Software;Backend+Developer;Entusiasta+del+Dise%C3%B1o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=25C3EB&center=false&vCenter=false&width=435&lines=Estudiante+de+Ingeniería+Civil+Informática;Backend+Developer;Entusiasta+del+Dise%C3%B1o)](https://git.io/typing-svg)
 
 ---
 
