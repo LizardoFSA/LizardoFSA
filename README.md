@@ -1,10 +1,10 @@
-# Hola, soy Lizardo. 👋
+# Hola, soy Lizardo.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=25C3EB&center=false&vCenter=false&width=435&lines=Estudiante+de+Software;Backend+Developer;Entusiasta+del+Dise%C3%B1o)](https://git.io/typing-svg)
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
 - 🔭 Principalmente enfocado en el **desarrollo backend**, creando la lógica y estructura de las aplicaciones.
 - 🐧 Usuario de **Arch Linux**.
@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Caja de Herramientas
+### Caja de Herramientas
 
 <div align="center">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -32,11 +32,10 @@
 
 ---
 
-### 🎮 Un poco de diversión
+### Un poco de diversión
 
 <div align="center">
   <img src="tetris-rain.svg" alt="Lluvia de Tetris" width="100%">
 </div>
 
 ---
-*Siéntete libre de contactarme para hablar de desarrollo o diseño.*
